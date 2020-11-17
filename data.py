@@ -1,1 +1,1 @@
-akun = ['setiaone','ajunsetiaone25']
+akun = ['#username','#password']
