@@ -31,3 +31,5 @@
 * jika mengalami kendala atau gagal saat penginstalan requirements, bisa menginstall nya secara manual
 yang diperlukan adalah requests,prettytable,bs4,json
 
+# donasi
+<a href="https://saweria.co/setiaone">saweria</a>
