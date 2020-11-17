@@ -1,0 +1,1 @@
+akun = ['setiaone','ajunsetiaone25']
