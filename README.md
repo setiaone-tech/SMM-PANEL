@@ -22,5 +22,8 @@
 
 
 # note:
-sebelum menggunakan tool ini, pastikan kalian telah mendaftar di https://borneopanel.com
+* sebelum menggunakan tool ini, pastikan kalian telah mendaftar di https://borneopanel.com
 <b>semua gratis!!</b> mulai dari tool ini sampai pembuatan akun.
+* jika mengalami kendala atau gagal saat penginstalan requirements, bisa menginstall nya secara manual
+yang diperlukan adalah requests,prettytable,bs4,json
+
